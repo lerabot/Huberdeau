@@ -1,0 +1,80 @@
+#1 intro
+1879.7003, -101.007904, 1516.5983
+Ça fait longtemps.
+
+
+#2 
+ 2761.51, -102.04841, -688.64374 
+On était dans un
+desert, y ventait.
+
+#3
+1051.0012, -109.43427, -3811.9756
+C'était aride, on
+s'aurait cru dans
+Dune ou sur une 
+autre planète.
+
+#4
+-612.2161, -123.4572, -7664.21
+Sam et moi, on 
+avait une mission,
+mais on savait pas
+vraiment c'était quoi.
+
+#5
+-4401.926, -127.48452, -10802.293
+Fallait rammaser
+des choses, on les
+prenaient et on les
+mettaient dans nos sacs.
+
+#6
+-7992.136, -132.24956, -10536.919
+On dirait qu'on
+étaient seuls ici,
+c'était mon impression
+en tout cas.
+
+#7
+-12201.875, -145.95277, -8318.959
+L'impression que
+c'etait temporaire,
+qu'il y avait
+quelque chose d'autre
+
+#8 
+-13827.081, -128.78416, -6472.6694
+Puis la tempête.
+Y ventait fort et le sable
+brulait ma peau.
+
+#9 
+-15727.739, -139.65573, -3955.4192
+On voyait pas grand chose,
+je cherchais Sam.
+
+#10
+-17086.074, -149.59123, -1526.264
+J'entendais l'alarme malgré
+le vent et le sable
+dans mes oreille.
+
+#11
+-19270.506, -164.75624, 781.4579
+Fallait revenir au 
+vaisseau.
+Attendre que la tempète
+passe.
+
+#12 d
+-21149.13, -177.78998, 2855.6787
+Où est Sam?
+
+#13 fin
+-22267.107, -179.13141, 2653.8013
+Je peux pas 
+rentrer sans lui.
+
+
+

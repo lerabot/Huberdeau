@@ -1,0 +1,54 @@
+{
+  "Intro": [
+    "Ça fait longtemps. J'etais avec mon frère, Sam"
+  ],
+  "Desert": [
+    "On était dans un désert, y ventait.",
+    "On aurait même dit qu'on était sur une autre planète."
+  ],
+  "Habitant": [
+    "Le genre de planète où plus personne habite.",
+    "Comme si tout le monde avaient avaient quitté depuis longtemps."
+  ],
+  "Mission": [
+    "Sam et moi, par contre, on avait une mission.                       ",
+    "Du moins, je crois..."
+  ],
+  "Rammasser": [
+    "Il fallait rammasser des trucs.                  ",
+    "Toute sorte de choses; des vieux essieux, des batteries, des conserves,", "tout ce qui peut encore servir."
+  ],
+  "Seul": [
+    "On dirait vraiment qu'on étaient seuls ici,",
+    "c'était mon impression en tout cas.             ",
+    "L'impression qu'il y avait quelque chose d'autre ailleurs."
+  ],
+  "Tempete": [
+    "Puis la tempête s'est levée.",
+    "Y ventait fort et le sable brûlait ma peau."
+  ],
+  "Yeux": [
+    "On voyait pas grand chose.",
+    "J'avais beau plisser les yeux, je cherchais Sam."
+  ],
+  "Alarme": [
+    "J'entendais l'alarme malgré le vent et le sable dans mes oreilles.",
+    "Le bruit lourd des marteaux sur la tôle."
+  ],
+  "Vaisseau": [
+    "Fallait revenir au vaisseau.",
+    "Attendre que la tempête passe."
+  ],
+  "Sam": [
+    "Où est Sam?"
+  ],
+  "Fin": [
+    "Je peux pas rentrer sans lui.",
+    "Je ne peux pas rentrer sans mon frère."
+  ],
+  "Porte": [
+    "La porte se referme.",
+    "le vent siffle à l'extérieur.",
+    "Il fait noir."
+  ]
+}
